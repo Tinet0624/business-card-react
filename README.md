@@ -14,6 +14,10 @@ The goal here was to use react and CSS to recreate the template form [Figma](htt
 Here is how mine turned out.
 <br>
 
+you can see the live version [HERE](https://tinet0624.github.io/business-card-react/)
+
+<br>
+
 ![ReactIMG](./images/Preview.jpg)
 
 <br>
