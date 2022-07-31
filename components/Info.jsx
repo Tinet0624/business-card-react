@@ -10,8 +10,8 @@ export default function Info(){
             <h1 className="my-name">Alexandra Haley</h1>
             <p className="title">React Front End Developer</p>
             <div className="btn-wrapper">
-                <a href = "mailto: alexandrahaley619@gmail.com"><button type="button" className="button"><img src={emailIcon} className="icon"/>Email</button></a>
-                <a href = "https://www.linkedin.com/in/alexandrajhaley/"><button type="button" className="button btn-linkedin"><img src={linkedinIcon} className="icon"/>LinkedIn</button></a>
+                <a href = "mailto: alexandrahaley619@gmail.com" target='_blank'><button type="button" className="button"><img src={emailIcon} className="icon"/>Email</button></a>
+                <a href = "https://www.linkedin.com/in/alexandrajhaley/" target='_blank'><button type="button" className="button btn-linkedin"><img src={linkedinIcon} className="icon"/>LinkedIn</button></a>
             </div>
         </div>
         
