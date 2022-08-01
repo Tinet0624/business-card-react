@@ -1,11 +1,5 @@
 * {margin: auto; padding: 0;}
 
-.photo{
-  width: 317px;
-  height: 317px;
-  border-radius: 10px 10px 0px 0px;
-}
-
 body{
   background-color: #23252C;
   color: rgb(224, 220, 220);
@@ -16,53 +10,6 @@ body{
 
 a:link, a:visited {
   text-decoration: none;
-}
-
-.button{
-  width: 115px;
-  height: 34px;
-  border-radius: 6px;
-  text-decoration: none;
-  border: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-}
-
-.btn-wrapper, .footer-wrapper{
-  display: flex;
-  justify-content: space-between;
-  padding: 19px;
-}
-
-.btn-linkedin{
-  background-color: #5093E2;
-}
-
-.icon{
-  height: 25px;
-  width: 25px;
-  padding: 3px;
-  margin: 0px;
-  cursor: pointer;
-}
-
-.container{
-  width: 317px;
-}
-
-.info-wrapper{
-  border-radius: 10px 10px 0px 0px;
-}
-
-.about-wrapper, .info-wrapper, .interests-wrapper{
-  background-color: #1A1B21;
-}
-
-.footer-wrapper{
-  border-radius: 0px 0px 10px 10px;
-  background-color: #161619;
 }
 
 h1{
@@ -76,13 +23,4 @@ p{
   padding: 0px 20px 24px 20px;
   font-weight: 400;
   font-size: 12px;
-}
-
-.my-name{
-  font-size: 25px;
-}
-
-.title{
-  text-align: center;
-  color: #F3BF99;
 }
