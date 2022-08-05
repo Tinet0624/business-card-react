@@ -19,6 +19,3 @@ you can see the live version [HERE](https://tinet0624.github.io/business-card-re
 <br>
 
 ![ReactIMG](./images/Preview.jpg)
-
-<br>
-I will update and post a live version later.
